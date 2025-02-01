@@ -1,4 +1,4 @@
-#Sign-In-With-Job-Search
+# Sign-In-With-Job-Search
 The "Sign-In-With-Job-Search" project leverages the power of Selenium WebDriver and WebDriverManager to automate the process of signing into bdjobs.comand performing job searches.
 This project streamlines interactions with the bdjobs.com website, allowing users to log in, conduct multiple job searches with different keywords,and navigate through search results effortlessly.
 
